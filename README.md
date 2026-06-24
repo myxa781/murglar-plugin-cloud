@@ -23,8 +23,7 @@ Build:
 - Android / Kotlin
 - Gradle build system
 
-License:
-See project license.
+
 
 ---
 
@@ -50,5 +49,4 @@ See project license.
 - Android / Kotlin
 - Gradle
 
-Лицензия:
-Смотрите файл лицензии проекта.
+
